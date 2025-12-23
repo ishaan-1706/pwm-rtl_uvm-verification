@@ -1,0 +1,35 @@
+# Ignore analysis files
+pwm_code.txt
+
+# Simulation outputs
+*.log
+*.wlf
+*.vcd
+*.asdb
+*.fsdb
+*.ucdb
+*.jou
+*.pb
+*.svf
+
+# Work libraries (Riviera, Questa, VCS, etc.)
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# EDA Playground exports
+epwave/
+epwave.db
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
