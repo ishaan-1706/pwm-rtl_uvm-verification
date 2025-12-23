@@ -119,6 +119,13 @@ To run on EDA Playground:
 3. Use Riviera‑Pro as the simulator  
 4. Run `testbench.sv` as the top module  
 
+OR 
+
+Use this URL for easy implementation
+
+```
+https://www.edaplayground.com/x/LSrV
+```
 ---
 
 ## **🌱 Future Expansions**
